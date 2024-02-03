@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Recipes finder</string>
+    <string name="button">Button</string>
+    <string name="recipeSearch">Search for a recipe</string>
+    <string name="searchButton">search</string>
+    <string name="randomButton">Random</string>
+    <string name="calorie_range">Calorie range</string>
+    <string name="cals">cals</string>
+    <string name="diet_type">Diet type</string>
+    <string name="health_label">Health label</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="textview">TextView</string>
+    <string name="picture_of_the_recipe">Picture of the recipe</string>
+    <string name="search_for_a_recipe_or_ingredient">Search for a recipe or ingredient</string>
+    <string name="settings">Settings</string>
+    <string name="item">Item</string>
+    <string name="recipe_source">Recipe Source</string>
+    <string name="recipe_calories">Recipe Calories</string>
+    <string name="favorite">favorite</string>
+    <string name="nutritional_information">Nutritional information</string>
+    <string name="source">Source</string>
+    <string name="nutrition">nutrition</string>
+    <string name="nutritional_facts">Nutritional Facts</string>
+    <string name="amounts_per_recipe">Amounts Per Recipe</string>
+    <string name="Calories">Calories</string>
+    <string name="totalFats">Total Fats</string>
+    <string name="totalSugars">Total sugars</string>
+    <string name="totalProtein">Total protein</string>
+    <string name="totalSodium">Total sodium</string>
+    <string name="cholesterol">Cholesterol</string>
+    <string name="totalCarbs">Total carbs</string>
+    <string name="totalFiber">Total fiber</string>
+    <string name="informationIcon">Information icon</string>
+    <string name="instructions">Instructions</string>
+    <string name="ingredient_picture">Ingredient Picture</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="do_you_like_this_app">Do you like this app? Please let me know:</string>
+    <string name="thumbs_up_icon">Thumbs up icon</string>
+    <string name="my_recipes">My recipes</string>
+    <string name="History">history</string>
+    <string name="delete_icon">Delete icon</string>
+    <string name="home">Home</string>
+    <string name="thumbs_down_icon">Thumbs down icon</string>
+
+
+    <string-array name="dietTypes">
+
+        <item>Diet type (none selected)</item>
+        <item>Balanced</item>
+        <item>High-Protein</item>
+        <item>Low-Carb</item>
+        <item>Low-Fat</item>
+        <item>Low-Sodium</item>
+        <item>High-Fiber</item>
+    </string-array>
+
+    <string-array name="healthLabels">
+        <item>Health label (none selected)</item>
+        <item>Egg-free</item>
+        <item>Vegan</item>
+        <item>Vegetarian</item>
+        <item>Gluten-free</item>
+        <item>Paleo</item>
+        <item>Crustacean-free</item>
+        <item>Peanut-free</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preferences">Preferences</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="share">share</string>
+    <string name="clear_list">Clear List</string>
+</resources>

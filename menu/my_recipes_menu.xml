@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--sets the menu bar for my recipes screen-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/clear_list"
+        android:id="@+id/clearList" />
+
+</menu>

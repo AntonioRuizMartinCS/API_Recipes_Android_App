@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--sets the menu bar for recipe screen-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miFavorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_favorites"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/miShare"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

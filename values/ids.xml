@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="searchButton" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="editTextRecipeSearch" type="id"/>
+    <item name="recipesList" type="id"/>
+    <item name="recipesRecyclerView" type="id"/>
+    <item name="ingredientsRecyclerView" type="id"/>
+    <item name="randomButton" type="id"/>
+    <item name="spinnerDietType" type="id"/>
+    <item name="spinnerHealthLabel" type="id"/>
+    <item name="recipeName" type="id"/>
+    <item name="recipeCalories" type="id"/>
+    <item name="recipeSource" type="id"/>
+    <item name="recipeSourceView" type="id"/>
+    <item name="nutritionButton" type="id"/>
+    <item name="informationIcon" type="id"/>
+    <item name="webView" type="id"/>
+    <item name="drawerLayout" type="id"/>
+    <item name="myRecipesImageView" type="id"/>
+</resources>
